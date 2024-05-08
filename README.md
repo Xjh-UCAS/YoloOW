@@ -12,4 +12,4 @@ In this paper, we proposed a real-time object detection neural network named Yol
 </div>
 
 ## Implementations
-"[YoloOW.pt](https://github.com/Xjh-UCAS/YoloOW/releases/download/YoloOW.pt)"
+"[YoloOW.pt](https://github.com/Xjh-UCAS/YoloOW/releases/download/v0.1/YoloOW.pt)"
