@@ -1,6 +1,6 @@
 <h2 align="center">YoloOW: A Spatial Scale Adaptive Real-time Object Detection Neural Network for Open Water Search and Rescue from UAV Aerial Imagery</h2>
 <div align="center">
-  <img src="https://github.com/Xjh-UCAS/YoloOW/assets/95291196/27599265-43ff-4470-bf73-7e5b7222d4ac">
+  <img src="https://github.com/Xjh-UCAS/YoloOW/assets/95291196/27599265-43ff-4470-bf73-7e5b7222d4ac" width="400">
 </div>
 
 This is the Early Access of the paper "[YoloOW: A Spatial Scale Adaptive Real-time Object Detection Neural Network for Open Water Search and Rescue from UAV Aerial Imagery](https://ieeexplore.ieee.org/document/10517350)"
