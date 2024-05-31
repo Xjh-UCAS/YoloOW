@@ -11,5 +11,10 @@ In this paper, we proposed a real-time object detection neural network named Yol
   <img src="https://github.com/Xjh-UCAS/YoloOW/assets/95291196/cfe89235-d8e5-44e9-8b7f-3082ff8df498">
 </div>
 
+## Train
+python train.py --workers 8 --device 0 --batch-size 4 --data data/sea_drones_see.yaml --img 1280  --cfg cfg/training/yoloOW.yaml --weights 'yoloow.pt' --name yoloOW --hyp data/hyp.scratch.sea.yaml --epoch 300
+
 ## Implementations
 "[YoloOW.pt](https://github.com/Xjh-UCAS/YoloOW/releases/download/v0.1/YoloOW.pt)"
+
+
